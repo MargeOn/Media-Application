@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>AppHeader.qml</file>
+        <file>ButtonControl.qml</file>
+        <file>MediaInfoControl.qml</file>
+        <file>PlaylistView.qml</file>
+        <file>SwitchButton.qml</file>
+        <file>translate_jp.qm</file>
+        <file>translate_kr.qm</file>
+        <file>translate_us.qm</file>
+        <file>translate_vn.qm</file>
+    </qresource>
+</RCC>

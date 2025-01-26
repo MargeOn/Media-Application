@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="vi_VN" sourcelanguage="vi_VN">
+<context>
+    <name>AppHeader</name>
+    <message>
+        <location filename="AppHeader.qml" line="27"/>
+        <source>MAIN_PLAYLIST_TITLE</source>
+        <translation>Danh sách bài hát</translation>
+    </message>
+    <message>
+        <location filename="AppHeader.qml" line="34"/>
+        <source>MAIN_MEDIA_PLAYER_TITLE</source>
+        <translation>Trình chơi đa phương tiện</translation>
+    </message>
+</context>
+<context>
+    <name>main</name>
+    <message>
+        <location filename="main.qml" line="15"/>
+        <source>MAIN_PROJECT</source>
+        <translation>Trình chơi đa phương tiện</translation>
+    </message>
+</context>
+</TS>
