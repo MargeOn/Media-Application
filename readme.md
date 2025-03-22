@@ -23,8 +23,12 @@
 - Hỗ trợ đa ngôn ngữ cho ứng dụng Qt bằng QTranslation
 
 ## Cấu trúc chương trình: 
-- 
-
+- Chương trình được xây dựng giao diện bằng QML và sử dụng ngôn ngữ C++ để xử lí các thao tác, tính năng cho phần backend
+- Phần giao diện được chia thành 3 component chính:
+  + AppHeader: bao gồm tên ứng dụng, button đóng - mở playlist và comboBox lựa chọn ngôn ngữ
+  + Playlist: hiển thị danh sách bài hát có trong ứng dụng và thao tác chọn bài hát
+  + MediaInfo: hiển thị các thông tin bài hát đang được chơi và các thao tác chơi/dừng, lặp lại bài hát, ...
+- Phần C++: sử dụng OOP, binding property, kết nối các signal - slot để xử lí các tính năng của ứng dụng
 ## Chức năng:
 - Phát nhạc và dừng nhạc
 - Chuyển tiếp bài hát
