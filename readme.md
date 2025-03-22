@@ -7,8 +7,8 @@
 ### Thông tin về source code:
 
 - Viết bằng ngôn ngữ Qt/QML và C++
-- Version Qt 5.14.2
-- Build trên Qt Creator 4.11.1 
+- Version Qt 5.14.2 và Qt Creator 4.11.1 
+- Build trên Ubuntu 22.04 
 
 ### Project bao gồm các kiến thức đã sử dụng như:
 
