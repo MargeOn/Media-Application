@@ -29,6 +29,9 @@
   + Playlist: hiển thị danh sách bài hát có trong ứng dụng và thao tác chọn bài hát
   + MediaInfo: hiển thị các thông tin bài hát đang được chơi và các thao tác chơi/dừng, lặp lại bài hát, ...
 - Phần C++: sử dụng OOP, binding property, kết nối các signal - slot để xử lí các tính năng của ứng dụng
+
+![](ImageMediaApp/MediaApp.png)
+
 ## Chức năng:
 - Phát nhạc và dừng nhạc
 - Chuyển tiếp bài hát
