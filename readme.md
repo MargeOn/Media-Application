@@ -8,7 +8,7 @@
 
 - Viết bằng ngôn ngữ Qt/QML và C++
 - Version Qt 5.14.2 (MinGW x64)
-- Build trên Linux (Ubuntu 22.04) 
+- Build trên Linux (Ubuntu 18.04.6) 
 
 ### Project bao gồm các kiến thức đã sử dụng như:
 
